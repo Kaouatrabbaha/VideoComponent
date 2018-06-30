@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="15px" viewBox="0 0 14 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>pause</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons-NEW" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons-Updated" transform="translate(-33.000000, -209.000000)" fill="#444444">
+            <g id="pause" transform="translate(33.000000, 209.000000)">
+                <path d="M4,0.015 L1,0.015 C0.4,0.015 0,0.415 0,1.015 L0,13.015 C0,13.615 0.4,14.015 1,14.015 L4,14.015 C4.6,14.015 5,13.615 5,13.015 L5,1.015 C5,0.415 4.6,0.015 4,0.015" id="Fill-143"></path>
+                <path d="M13,0.015 L10,0.015 C9.4,0.015 9,0.415 9,1.015 L9,13.015 C9,13.615 9.4,14.015 10,14.015 L13,14.015 C13.6,14.015 14,13.615 14,13.015 L14,1.015 C14,0.415 13.6,0.015 13,0.015" id="Fill-144"></path>
+            </g>
+        </g>
+    </g>
+</svg>

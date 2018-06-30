@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>play-video-large</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons-NEW" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-30.000000, -239.000000)">
+            <g id="play-video-large" transform="translate(30.000000, 239.000000)">
+                <circle id="Oval-2" stroke="#FFFFFF" stroke-width="2" fill="#000000" opacity="0.75" cx="30" cy="30" r="29"></circle>
+                <path d="M26.6223187,21.2553801 L36.6368578,29.217211 C37.0691664,29.5609081 37.1410003,30.1899851 36.7973031,30.6222937 C36.7500818,30.6816895 36.6962536,30.7355177 36.6368578,30.782739 L26.6223187,38.74457 C26.19001,39.0882671 25.5609331,39.0164333 25.217236,38.5841247 C25.0765739,38.4071973 25,38.1878351 25,37.961806 L25,22.0381441 C25,21.4858593 25.4477153,21.0381441 26,21.0381441 C26.2260291,21.0381441 26.4453913,21.114718 26.6223187,21.2553801 Z" id="Triangle-1" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

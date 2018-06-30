@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>heart-outline</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons-NEW" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-406.000000, -86.000000)" fill="#444444">
+            <g id="heart-outline" transform="translate(406.000000, 86.000000)">
+                <path d="M11.6,0 C10.1,0 8.8,0.8 8,2 C7.2,0.8 5.9,0 4.4,0 C2,0 0,2 0,4.4 C0,8.8 8,15.3 8,15.3 C8,15.3 16,8.8 16,4.4 C16,2 14,0 11.6,0 M11.6,2 C12.901,2 14,3.099 14,4.4 C14,6.454 10.813,10.123 8,12.664 C5.187,10.123 2,6.454 2,4.4 C2,3.099 3.1,2 4.4,2 C5.161,2 5.866,2.404 6.336,3.109 L8,5.605 L9.664,3.109 C10.134,2.404 10.84,2 11.6,2" id="Fill-1"></path>
+            </g>
+        </g>
+    </g>
+</svg>

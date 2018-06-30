@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>chevron-down-alt</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0.0004 16 0.0004 16 16 0 16"></polygon>
+    </defs>
+    <g id="Icons-NEW" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-228.000000, -86.000000)">
+            <g id="chevron-down-alt" transform="translate(228.000000, 86.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-9"></g>
+                <path d="M8,10.4004 L4.6,7.0004 L6,5.5994 L8,7.5994 L10,5.5994 L11.4,7.0004 L8,10.4004 Z M8,0.0004 C3.6,0.0004 0,3.5994 0,8.0004 C0,12.4004 3.6,16.0004 8,16.0004 C12.4,16.0004 16,12.4004 16,8.0004 C16,3.5994 12.4,0.0004 8,0.0004 Z" id="Fill-8" fill="#444444" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

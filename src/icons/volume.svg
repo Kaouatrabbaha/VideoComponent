@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>volume</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons-NEW" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons-Updated" transform="translate(-71.000000, -208.000000)" fill="#444444">
+            <g id="volume" transform="translate(71.000000, 208.000000)">
+                <path d="M12.7998,12.2152 C12.3998,11.8152 12.3998,11.2152 12.7998,10.8152 C14.3998,9.2152 14.3998,6.7152 12.7998,5.1152 C12.3998,4.7152 12.3998,4.1152 12.7998,3.7152 C13.1998,3.3152 13.7998,3.3152 14.1998,3.7152 C16.4998,6.0152 16.4998,9.8152 14.1998,12.2152 C13.8998,12.6152 13.1998,12.6152 12.7998,12.2152" id="Fill-37"></path>
+                <path d="M11,1.015 C11,0.215 10.1,-0.285 9.4,0.215 L3.7,4.015 L1,4.015 C0.4,4.015 0,4.415 0,5.015 L0,11.015 C0,11.615 0.4,12.015 1,12.015 L3.7,12.015 L9.4,15.815 C10.1,16.215 11,15.815 11,15.015 L11,1.015 Z" id="Fill-38"></path>
+            </g>
+        </g>
+    </g>
+</svg>

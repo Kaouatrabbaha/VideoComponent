@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>emoji3</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons-NEW" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-102.000000, -124.000000)" fill="#444444">
+            <g id="emoji3" transform="translate(102.000000, 124.000000)">
+                <path d="M8,14 C4.7,14 2,11.3 2,8 C2,4.7 4.7,2 8,2 C11.3,2 14,4.7 14,8 C14,11.3 11.3,14 8,14 M8,0 C3.6,0 0,3.6 0,8 C0,12.4 3.6,16 8,16 C12.4,16 16,12.4 16,8 C16,3.6 12.4,0 8,0" id="Fill-21"></path>
+                <path d="M6,5 C6.552,5 7,5.448 7,6 C7,6.552 6.552,7 6,7 C5.448,7 5,6.552 5,6 C5,5.448 5.448,5 6,5" id="Fill-22"></path>
+                <path d="M10,5 C10.552,5 11,5.448 11,6 C11,6.552 10.552,7 10,7 C9.448,7 9,6.552 9,6 C9,5.448 9.448,5 10,5" id="Fill-23"></path>
+            </g>
+        </g>
+    </g>
+</svg>

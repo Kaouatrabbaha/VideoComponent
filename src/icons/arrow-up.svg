@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>arrow-up</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons-NEW" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-442.000000, -87.000000)" fill="#444444">
+            <g id="arrow-up" transform="translate(442.000000, 87.000000)">
+                <path d="M7.96568542,0 C7.66568542,0 7.36568542,0.2 7.16568542,0.4 L0.165685425,10.4 C-0.0343145751,10.7 -0.0343145751,11.1 0.0656854249,11.4 C0.265685425,11.8 0.565685425,12 0.965685425,12 L14.9656854,12 C15.3656854,12 15.6656854,11.8 15.8656854,11.5 C16.0656854,11.2 15.9656854,10.8 15.7656854,10.5 L8.76568542,0.5 C8.56568542,0.2 8.26568542,0 7.96568542,0" id="Fill-152"></path>
+            </g>
+        </g>
+    </g>
+</svg>

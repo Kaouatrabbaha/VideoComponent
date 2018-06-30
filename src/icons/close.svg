@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>close</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0 13.9998 0 13.9998 13.99925 0 13.99925"></polygon>
+    </defs>
+    <g id="Icons-NEW" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-300.000000, -87.000000)">
+            <g id="close" transform="translate(300.000000, 87.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2"></g>
+                <path d="M13.7,0.29925 C13.3,-0.09975 12.7,-0.09975 12.3,0.29925 L7,5.59925 L1.7,0.29925 C1.3,-0.09975 0.7,-0.09975 0.3,0.29925 C-0.1,0.69925 -0.1,1.29925 0.3,1.69925 L5.6,6.99925 L0.3,12.29925 C-0.1,12.69925 -0.1,13.29925 0.3,13.69925 C0.5,13.90025 0.7,13.99925 1,13.99925 C1.3,13.99925 1.5,13.90025 1.7,13.69925 L7,8.40025 L12.3,13.69925 C12.5,13.90025 12.8,13.99925 13,13.99925 C13.2,13.99925 13.5,13.90025 13.7,13.69925 C14.1,13.29925 14.1,12.69925 13.7,12.29925 L8.4,6.99925 L13.7,1.69925 C14.1,1.29925 14.1,0.69925 13.7,0.29925" id="Fill-1" fill="#444444" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>
