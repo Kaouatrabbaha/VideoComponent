@@ -9,7 +9,7 @@ export const Container = styled.section`
     `;
 
 export const VideoContainer = styled.div`
-    background-image: url(/images/pexels-photo.jpg);
+    background-image: url(${require('./images/pexels-photo.jpg')});
     padding-top: 56.66%;
     background-position: center;
     position: relative;
